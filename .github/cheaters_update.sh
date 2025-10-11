@@ -7,7 +7,7 @@ cheaters_ID=(
 	"76561198861931833｜Very&#32;bad｜ASJ"
 	"76561198379251619｜Very&#32;bad,&#32;Frequent&#32;name&#32;changes,&#32;using&#32;the&#32;name&#32;of&#32;someone&#32;who&#32;angered&#32;him｜guivalla"
 	"76561199103147131｜Very&#32;bad,&#32;Frequent&#32;name&#32;changes,&#32;Hid&#32;his&#32;game&#32;library｜Rebely"
-	"76561198787726253｜Very&#32;bad,&#32;Rebely's&#32;alternate&#32;account,&#32;Frequent&#32;name&#32;changes｜Crybaby"
+	"76561198787726253｜Very&#32;bad,&#32;Rebely's&#32;alternate&#32;account,&#32;Frequent&#32;name&#32;changes｜CryRebely"
 	76561199168735223
 	76561199759680199
 	76561198786955094
@@ -235,7 +235,8 @@ cheaters_ID=(
 	76561199497116434
 	76561198220391076
 	76561198943227563
-	"76561199489780880｜Very&#32;bad｜Mike&#32;Hunt" "76561199247196637｜｜奥西亚无人机"
+	"76561199489780880｜Very&#32;bad｜Mike&#32;Hunt"
+	"76561199247196637｜｜奥西亚无人机"
 	76561198107387037
 	76561198955687025
 	76561198145619796
