@@ -1,4 +1,4 @@
-# AceCombat7 cheaters
+# AceCombat7 Cheaters
 
 
 | Name | Steam URL ID | Aliases | Note |
