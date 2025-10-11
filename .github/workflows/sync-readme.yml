@@ -3,12 +3,12 @@ name: Sync README from source repo
 on:
   workflow_run:
     workflows: ["cheaters_update"]
-    types:
-      - completed
+    types: [completed]
   workflow_dispatch: # 允许手动触发
 
 jobs:
-  sync:
+  sync: 
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout source repo
