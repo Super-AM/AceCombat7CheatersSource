@@ -2,6 +2,8 @@ name: Sync README
 
 on:
   push:
+    branches:
+      - master
     paths:
       - 'README.md' # 只有当 README.md 文件发生变更时触发
   workflow_dispatch: # 允许手动触发
