@@ -345,7 +345,7 @@ do
 done
 echo ${cheaters_Name[*]}
 
-echo '# AceCombat7 cheaters
+echo '# AceCombat7 Cheaters
 
 
 | Name | Steam URL ID | Aliases | Note |
