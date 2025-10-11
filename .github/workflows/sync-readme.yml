@@ -1,4 +1,4 @@
-name: Sync README
+name: Sync README from source repo
 
 on:
   push:
