@@ -20,7 +20,7 @@ jobs:
           git config --global user.name "ForeverAM"
 
           # 克隆目标仓库
-          git clone https://${{ secrets.List_Transfer }}@github.com/ForeverAM/AC7cheaters.git target-repo
+          git clone https://${{ secrets.LIST_TRANSFER }}@github.com/ForeverAM/AC7cheaters.git target-repo
 
           # 复制 README 文件
           cp README.md target-repo/
