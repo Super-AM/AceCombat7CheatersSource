@@ -1,11 +1,10 @@
 name: Sync README from source repo
 
 on:
-  push:
-    branches:
-      - master
-    paths:
-      - 'README.md' # 只有当 README.md 文件发生变更时触发
+  workflow_run:
+    workflows: ["Update Content"]
+    types:
+      - completed
   workflow_dispatch: # 允许手动触发
 
 jobs:
@@ -31,4 +30,4 @@ jobs:
           cd target-repo
           git add README.md
           git commit -m "Sync README from source repo" || exit 0
-          git push https://${{ secrets.LIST_TRANSFER }}@github.com/ForeverAM/AC7cheaters.git
+          git push
