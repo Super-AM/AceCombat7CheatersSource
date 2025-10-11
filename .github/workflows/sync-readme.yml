@@ -2,7 +2,7 @@ name: Sync README from source repo
 
 on:
   workflow_run:
-    workflows: ["Update Content"]
+    workflows: ["cheaters_update"]
     types:
       - completed
   workflow_dispatch: # 允许手动触发
