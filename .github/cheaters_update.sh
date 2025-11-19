@@ -9,6 +9,7 @@ cheaters_ID=(
 	"76561198861931833｜Very&#32;bad｜ASJ"
 	"76561199103147131｜Very&#32;bad,&#32;Frequent&#32;name&#32;changes,&#32;Hid&#32;his&#32;game&#32;library｜Rebely"
 	"76561198787726253｜Very&#32;bad,&#32;Rebely's&#32;alternate&#32;account,&#32;Frequent&#32;name&#32;changes｜Crybaby"
+	76561198253105624
 	76561199574604095
 	76561199859952760
 	76561199143307584
