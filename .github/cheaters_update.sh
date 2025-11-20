@@ -9,6 +9,7 @@ cheaters_ID=(
 	"76561198861931833｜Very&#32;bad,&#32;Frequent&#32;name&#32;changes,&#32;using&#32;the&#32;name&#32;of&#32;someone&#32;who&#32;angered&#32;him｜ASJ"
 	"76561199103147131｜Very&#32;bad,&#32;Frequent&#32;name&#32;changes,&#32;Hid&#32;his&#32;game&#32;library｜Rebely"
 	"76561198787726253｜Very&#32;bad,&#32;Rebely's&#32;alternate&#32;account,&#32;Frequent&#32;name&#32;changes｜Rebely"
+	"76561199245272853｜Very&#32;bad｜"
 	76561198253105624
 	76561199232107732｜｜skywY
 	76561199574604095
@@ -30,7 +31,6 @@ cheaters_ID=(
 	76561198381089403
 	76561198833098058
 	76561199413820695
-	"76561199245272853｜Very&#32;bad｜"
 	76561198046742690
 	76561199474482517｜｜Azrael
 	"76561198432223463｜Very&#32;bad,&#32;Frequent&#32;name&#32;changes,&#32;Using&#32;names&#32;that&#32;involve&#32;politicaly&#32;sensitive,&#32;using&#32;the&#32;name&#32;of&#32;someone&#32;who&#32;angered&#32;him｜kais"
