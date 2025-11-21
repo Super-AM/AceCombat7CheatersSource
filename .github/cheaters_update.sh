@@ -10,6 +10,7 @@ cheaters_ID=(
 	"76561198379251619｜Very&#32;bad,&#32;Frequent&#32;name&#32;changes,&#32;using&#32;the&#32;name&#32;of&#32;someone&#32;who&#32;angered&#32;him｜guivalla"
 	"76561198861931833｜Very&#32;bad,&#32;Frequent&#32;name&#32;changes,&#32;using&#32;the&#32;name&#32;of&#32;someone&#32;who&#32;angered&#32;him｜ASJ"
 	"76561199245272853｜Very&#32;bad｜"
+	76561198364583292
 	76561199005498017
 	76561198253105624
 	76561199232107732｜｜skywY
