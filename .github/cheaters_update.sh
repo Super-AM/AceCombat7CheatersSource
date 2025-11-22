@@ -4,12 +4,12 @@ time=$(date "+%Y-%m-%d %H:%M:%S")
 echo $time
 
 cheaters_ID=(
-	"76561199103147131｜Very&#32;bad,&#32;Frequent&#32;name&#32;changes,&#32;Hid&#32;his&#32;game&#32;library｜Rebely"
-	"76561198787726253｜Very&#32;bad,&#32;Rebely's&#32;alternate&#32;account,&#32;Frequent&#32;name&#32;changes｜Rebely"
-	"76561199812329207｜Very&#32;bad,&#32;Pretend&#32;to&#32;be&#32;me,&#32;LMAO,&#32;Frequent&#32;name&#32;changes,&#32;using&#32;the&#32;name&#32;of&#32;someone&#32;who&#32;angered&#32;him｜Johnny"
-	"76561198379251619｜Very&#32;bad,&#32;Frequent&#32;name&#32;changes,&#32;using&#32;the&#32;name&#32;of&#32;someone&#32;who&#32;angered&#32;him｜guivalla"
-	"76561198861931833｜Very&#32;bad,&#32;Frequent&#32;name&#32;changes,&#32;using&#32;the&#32;name&#32;of&#32;someone&#32;who&#32;angered&#32;him｜ASJ"
-	"76561199245272853｜Very&#32;bad｜"
+	"76561199103147131｜Vile,&#32;Frequent&#32;name&#32;changes,&#32;Hid&#32;his&#32;game&#32;library｜Rebely"
+	"76561198787726253｜Vile,&#32;Rebely's&#32;alternate&#32;account,&#32;Frequent&#32;name&#32;changes｜Rebely"
+	"76561199812329207｜Vile,&#32;Pretend&#32;to&#32;be&#32;me,&#32;LMAO,&#32;Frequent&#32;name&#32;changes,&#32;using&#32;the&#32;name&#32;of&#32;someone&#32;who&#32;angered&#32;him｜Johnny"
+	"76561198379251619｜Vile,&#32;Frequent&#32;name&#32;changes,&#32;using&#32;the&#32;name&#32;of&#32;someone&#32;who&#32;angered&#32;him｜guivalla"
+	"76561198861931833｜Vile,&#32;Frequent&#32;name&#32;changes,&#32;using&#32;the&#32;name&#32;of&#32;someone&#32;who&#32;angered&#32;him｜ASJ"
+	"76561199245272853｜Vile｜"
 	76561198364583292
 	76561199005498017
 	76561198253105624
@@ -25,7 +25,7 @@ cheaters_ID=(
 	76561198289197547
 	76561199168735223｜｜maskriderx00
 	76561199759680199
-	"76561198786955094｜Very&#32;bad,&#32;Rebely's&#32;alternate&#32;account｜Johnny"
+	"76561198786955094｜Vile,&#32;Rebely's&#32;alternate&#32;account｜Johnny"
 	76561199877371190
 	76561199216308131
 	76561199868171149
@@ -38,7 +38,7 @@ cheaters_ID=(
 	"76561198432223463｜Very&#32;bad,&#32;Frequent&#32;name&#32;changes,&#32;Using&#32;names&#32;that&#32;involve&#32;politicaly&#32;sensitive,&#32;using&#32;the&#32;name&#32;of&#32;someone&#32;who&#32;angered&#32;him｜kais"
 	"76561199223435151｜Very&#32;bad｜"
 	"76561199158658113｜Very&#32;bad｜"
-	"76561198329707303｜Very&#32;bad,&#32;Using&#32;names&#32;that&#32;involve&#32;politicaly&#32;sensitive｜"
+	"76561198329707303｜Vile,&#32;Using&#32;names&#32;that&#32;involve&#32;politicaly&#32;sensitive｜"
 	76561198303281186
 	76561199886547985
 	"76561199868607161｜Very&#32;bad｜"
@@ -101,7 +101,7 @@ cheaters_ID=(
 	76561199482650750
 	76561198860320969
 	"76561198406113787｜｜Rodrigo&#32;Oliveira"
-	"76561199549196217｜Very&#32;bad｜1284829307"
+	"76561199549196217｜Vile｜1284829307"
 	76561199093661538
 	76561199038974533
 	76561198390523516
@@ -245,7 +245,7 @@ cheaters_ID=(
 	76561199497116434
 	76561198220391076
 	76561198943227563
-	"76561199489780880｜Very&#32;bad｜Mike&#32;Hunt"
+	"76561199489780880｜Vile｜Mike&#32;Hunt"
 	"76561199247196637｜｜奥西亚无人机"
 	76561198107387037
 	76561198955687025
@@ -291,7 +291,7 @@ cheaters_ID=(
 	76561199071839304
 	76561199390199106
 	76561199310017870
-	"76561199412285976｜Very&#32;bad｜"
+	"76561199412285976｜Vile｜"
 	76561198990544647
 	76561198092502120
 	76561198043433411
