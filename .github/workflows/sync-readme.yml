@@ -1,4 +1,4 @@
-name: Sync README from source repo
+name: Sync README
 
 on:
   workflow_run:
@@ -27,5 +27,5 @@ jobs:
 
           cd target-repo
           git add README.md
-          git commit -m "Sync README from source repo" || exit 0
+          git commit -m "Sync README" || exit 0
           git push
