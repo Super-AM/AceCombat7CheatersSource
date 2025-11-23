@@ -18,8 +18,8 @@ jobs:
 
       - name: Sync to target repo
         run: |
-          git config --global user.email "337557380@qq.com"
-          git config --global user.name "ForeverAM"
+          git config --global user.email "foreveram@foxmail.com"
+          git config --global user.name "Super-AM"
 
           git clone https://${{ secrets.LIST_TRANSFER }}@github.com/ForeverAM/AC7cheaters.git target-repo
 
