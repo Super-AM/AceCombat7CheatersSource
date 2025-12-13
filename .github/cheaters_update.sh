@@ -10,6 +10,7 @@ cheaters_ID=(
 	"76561199812329207｜Vile,&#32;Frequent&#32;name&#32;changes,&#32;using&#32;the&#32;name&#32;of&#32;someone&#32;who&#32;angered&#32;him｜Johnny"
 	"76561198861931833｜Vile,&#32;Frequent&#32;name&#32;changes,&#32;using&#32;the&#32;name&#32;of&#32;someone&#32;who&#32;angered&#32;him｜ASJ"
 	"76561199245272853｜Vile｜"
+	76561198060569991
 	76561198367447457
 	76561198868094405
 	76561199655709830
