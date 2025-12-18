@@ -9,6 +9,7 @@ cheaters_ID=(
 	"76561198787726253｜Vile,&#32;Rebely's&#32;alternate&#32;account,&#32;Frequent&#32;name&#32;changes｜Rebely"
 	"76561199812329207｜Vile,&#32;Frequent&#32;name&#32;changes,&#32;using&#32;the&#32;name&#32;of&#32;someone&#32;who&#32;angered&#32;him｜Johnny"
 	"76561198861931833｜Vile,&#32;Frequent&#32;name&#32;changes,&#32;using&#32;the&#32;name&#32;of&#32;someone&#32;who&#32;angered&#32;him｜ASJ"
+	76561199499257065
 	76561199590949305
 	"76561198406113787｜｜Rodrigo&#32;Oliveira"
 	76561198160607905
@@ -32,7 +33,6 @@ cheaters_ID=(
 	76561199859952760
 	76561199143307584
 	"76561198180593561｜｜Enterprise"
-	76561199499257065
 	76561199891594457
 	76561199606753298
 	76561199095781454
