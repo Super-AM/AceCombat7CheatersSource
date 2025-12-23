@@ -7,7 +7,6 @@ cheaters_ID=(
 	"76561198379251619｜Vile,&#32;Frequent&#32;name&#32;changes,&#32;using&#32;the&#32;name&#32;of&#32;someone&#32;who&#32;angered&#32;him｜guivalla"
 	"76561199103147131｜Vile,&#32;Frequent&#32;name&#32;changes,&#32;Hid&#32;his&#32;game&#32;library｜Rebely"
 	"76561198787726253｜Vile,&#32;Rebely's&#32;alternate&#32;account,&#32;Frequent&#32;name&#32;changes｜Rebely"
-	"76561199812329207｜Vile,&#32;Frequent&#32;name&#32;changes,&#32;using&#32;the&#32;name&#32;of&#32;someone&#32;who&#32;angered&#32;him｜Johnny"
 	"76561198861931833｜Vile,&#32;Frequent&#32;name&#32;changes,&#32;using&#32;the&#32;name&#32;of&#32;someone&#32;who&#32;angered&#32;him｜ASJ"
 	76561199077281851
 	76561199796835724
@@ -44,6 +43,7 @@ cheaters_ID=(
 	76561198289197547
 	76561199168735223｜｜maskriderx00
 	76561199759680199
+	"76561199812329207｜Vile｜Johnny"
 	"76561198786955094｜Vile,&#32;Johnny's&#32;alternate&#32;account｜Johnny"
 	76561199877371190
 	76561199216308131
