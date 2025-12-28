@@ -9,6 +9,7 @@ cheaters_ID=(
 	"76561199103147131｜Vile,&#32;Frequent&#32;name&#32;changes｜Rebely"
 	"76561198787726253｜Vile,&#32;Frequent&#32;name&#32;changes｜Rebely"
 	"76561198861931833｜Vile,&#32;Frequent&#32;name&#32;changes,&#32;using&#32;the&#32;name&#32;of&#32;someone&#32;who&#32;angered&#32;him｜ASJ"
+	76561198429237696
 	76561199531095365
 	76561199482723288
 	76561198820024165
