@@ -12,7 +12,7 @@ cheaters_ID=(
 	76561199805129298
 	76561199543657289
 	76561198401992912
-	76561198823222741｜｜LIL.
+	"76561198823222741｜Stealing&#32;someone&#32;else's&#32;name,&#32;pay&#32;attention&#32;to&#32;distinguishing｜LIL."
 	76561199868171149
 	"76561198861931833｜Vile,&#32;Frequent&#32;name&#32;changes,&#32;using&#32;the&#32;name&#32;of&#32;someone&#32;who&#32;angered&#32;him｜ASJ"
 	76561198775925923
