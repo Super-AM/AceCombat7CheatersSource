@@ -4,10 +4,10 @@ time=$(date "+%Y-%m-%d %H:%M:%S")
 echo $time
 
 cheaters_ID=(
+	"76561198711292002｜Vile,&#32;Frequent&#32;name&#32;changes｜CHINESE&#32;DRONE"
 	"76561199812329207｜Vile｜Johnny"
 	"76561199103147131｜Vile,&#32;Frequent&#32;name&#32;changes｜Rebely"
 	"76561198787726253｜Vile,&#32;Frequent&#32;name&#32;changes｜Rebely"
-	"76561198711292002｜Vile,&#32;Frequent&#32;name&#32;changes｜CHINESE&#32;DRONE"
 	"76561199245272853｜Vile｜Morgan"
 	76561199824528282
 	76561199863587704
