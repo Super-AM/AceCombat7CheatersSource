@@ -5,6 +5,7 @@ echo $time
 
 cheaters_ID=(
 	"76561198711292002｜Vile,&#32;Frequent&#32;name&#32;changes｜Staeni92"
+	76561198712338676｜Vile｜Staeni92
 	"76561199103147131｜Vile,&#32;Frequent&#32;name&#32;changes｜Rebely"
 	"76561198787726253｜Vile,&#32;Frequent&#32;name&#32;changes｜Rebely"
 	"76561199812329207｜Vile｜Johnny"
@@ -19,7 +20,6 @@ cheaters_ID=(
 	76561198869410066｜｜Lacia
 	76561198367447457｜Vile｜
 	"76561199245272853｜Vile｜Morgan"
-	76561198712338676｜Vile｜Staeni92
 	76561199824528282
 	76561199863587704
 	76561199788482093｜｜Yvonne
